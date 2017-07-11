@@ -1,0 +1,4 @@
+JavaScript Event KeyCodes
+http://keycode.info/
+Keycode testing tool - which keys map to which keycodes?
+
